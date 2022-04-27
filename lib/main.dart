@@ -93,7 +93,7 @@ class MyApp extends StatelessWidget {
                     const SizedBox(
                       height: 15,
                     ),
-                    Container(
+                    SizedBox(
                       height: 200,
                       child: ListView(
                         scrollDirection: Axis.horizontal,
